@@ -18,7 +18,3 @@
 ## Tools
 - Css Framework: [Semantic UI](https://semantic-ui.com)
 - Toast or Notification: [Noty](https://ned.im/noty)
-## Contact US
-- Email: [mehdineysi@outlook.com](mailto:mehdineysi@outlook.com)
-- Instagram: [@neysi.dev](https://instagram.com/neysi.dev)
-- Twitter: [@dev_mehdineysi](https://twitter.com/dev_mehdineysi)
